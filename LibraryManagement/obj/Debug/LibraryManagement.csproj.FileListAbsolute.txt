@@ -1,0 +1,6 @@
+c:\users\vinutha\documents\visual studio 2015\Projects\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+c:\users\vinutha\documents\visual studio 2015\Projects\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+c:\users\vinutha\documents\visual studio 2015\Projects\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+c:\users\vinutha\documents\visual studio 2015\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csprojResolveAssemblyReference.cache
+c:\users\vinutha\documents\visual studio 2015\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+c:\users\vinutha\documents\visual studio 2015\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
